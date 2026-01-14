@@ -21,7 +21,7 @@
 
 | 버전 | 파일 | 설명 |
 |------|------|------|
-| v1.0.3 | [linkstack-extension-v1.0.3.zip](https://github.com/PromStack-1/linkstack/releases/latest) | Chrome/Edge/Whale 공용 |
+| v1.0.5 | [linkstack-extension-v1.0.5.zip](https://github.com/PromStack-1/linkstack/releases/latest) | Chrome/Edge/Whale 공용 |
 
 ## 🚀 설치 방법
 
@@ -62,12 +62,6 @@
 - 페이지 내용 자동 요약
 - 키워드 추출
 - 핵심 포인트 정리
-
-### 🚀 AI 연동
-
-- **ChatGPT**: 저장된 링크 내용을 ChatGPT에 전송
-- **Claude**: Claude.ai와 연동
-- **Gemini**: Google Gemini와 연동
 
 ## ⌨️ 단축키
 
