@@ -1,7 +1,7 @@
 # LinkStack 브라우저 확장 프로그램
 
 <p align="center">
-  <img src="icons/icon128.png" alt="LinkStack Logo" width="128">
+  <img src="banner.png" alt="LinkStack Banner" width="100%">
 </p>
 
 <p align="center">
